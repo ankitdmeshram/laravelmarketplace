@@ -100,6 +100,24 @@
         color: orangered;
       }
 
+      .pricing 
+      {
+        padding: 75px 10px;
+        background: rgba(255, 68, 0, 0.051)
+      }
+      .pricing .box {
+        padding: 40px 10px;
+        box-shadow: 1px 1px 50px 1px rgba(0, 0, 0, 0.087);
+        border-radius: 15px;
+     
+      }
+      .pricing ul {
+        list-style: none;
+      } 
+      .pricing ul li {
+        padding: 5px;
+      }
+
     </style>
   </head>
   <body>
