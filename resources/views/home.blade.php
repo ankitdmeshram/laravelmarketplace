@@ -3,6 +3,7 @@
 
 @include('homeLayout/hero')
 @include('homeLayout/features')
+@include('homeLayout/whyChooseUs')
 
 
 

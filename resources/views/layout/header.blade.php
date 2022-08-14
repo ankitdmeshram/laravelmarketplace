@@ -24,6 +24,10 @@
         font-size: 3em;
         font-weight: 700;
       }
+      h3 {
+        font-size: 2.5em;
+        font-weight: 700;
+      }
       h5 {
         font-size: 1.3em;
         font-weight: 600;
@@ -79,6 +83,21 @@
       .features .box {
         box-shadow: 1px 1px 50px 1px rgba(0, 0, 0, 0.087);
         border-radius: 15px;
+      }
+
+      .wcu {
+        padding: 100px 10px;
+      }
+      .wcu .img {
+        background: rgba(255, 68, 0, 0.142);
+        padding: 10px;
+        border-radius: 50px;
+      }
+      .wcu p {
+        font-weight: 500;
+      }
+      .wcu h3 {
+        color: orangered;
       }
 
     </style>
