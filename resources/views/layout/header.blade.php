@@ -20,6 +20,14 @@
         font-size: 4em;
         font-weight: 700;
       }
+      h2 {
+        font-size: 3em;
+        font-weight: 700;
+      }
+      h5 {
+        font-size: 1.3em;
+        font-weight: 600;
+      }
       p {
         font-size: 1.1rem;
         font-weight: 600;
@@ -57,6 +65,21 @@
       .hero {
         padding: 100px 10px;
       }
+
+      .features {
+        padding: 100px 10px;
+        background: rgba(255, 166, 0, 0.026);
+      }
+      .features img {
+        width: 100px;
+      }
+      .features p {
+        font-weight: 400;
+      }
+      .features .shadowed {
+        box-shadow: 1px 1px 50px 1px rgba(0, 0, 0, 0.087);
+      }
+
     </style>
   </head>
   <body>
