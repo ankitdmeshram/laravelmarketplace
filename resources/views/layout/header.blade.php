@@ -76,8 +76,9 @@
       .features p {
         font-weight: 400;
       }
-      .features .shadowed {
+      .features .box {
         box-shadow: 1px 1px 50px 1px rgba(0, 0, 0, 0.087);
+        border-radius: 15px;
       }
 
     </style>
