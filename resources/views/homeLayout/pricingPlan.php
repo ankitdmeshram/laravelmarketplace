@@ -11,9 +11,11 @@
             <div class="box">
                 <div class="text-center">
                     <h5>Starter</h5>
-                    <h3>Rs.3000 / <br> <small>month</small> </h3>
-                    <p><strike>Rs.5000/year</strike></p>
+                    <h3>₹3000<span style="font-size: 16px">/year</span></h3>
+                    <p><strike>₹5000/year</strike></p>
                     <ul>
+                        <li>Unlimited Pages</li>
+                        <li>Unlimited Pages</li>
                         <li>Unlimited Pages</li>
                         <li>Unlimited Pages</li>
                         <li>Unlimited Pages</li>
@@ -27,9 +29,11 @@
             <div class="box">
                 <div class="text-center">
                     <h5>Starter</h5>
-                    <h3>Rs.3000 / <br> <small>month</small> </h3>
-                    <p><strike>Rs.5000/year</strike></p>
+                    <h3>₹3000<span style="font-size: 16px">/year</span></h3>
+                    <p><strike>₹5000/year</strike></p>
                     <ul>
+                        <li>Unlimited Pages</li>
+                        <li>Unlimited Pages</li>
                         <li>Unlimited Pages</li>
                         <li>Unlimited Pages</li>
                         <li>Unlimited Pages</li>
@@ -43,9 +47,11 @@
             <div class="box">
                 <div class="text-center">
                     <h5>Starter</h5>
-                    <h3>Rs.3000 / <br> <small>month</small> </h3>
-                    <p><strike>Rs.5000/year</strike></p>
+                    <h3>₹3000<span style="font-size: 16px">/year</span></h3>
+                    <p><strike>₹5000/year</strike></p>
                     <ul>
+                        <li>Unlimited Pages</li>
+                        <li>Unlimited Pages</li>
                         <li>Unlimited Pages</li>
                         <li>Unlimited Pages</li>
                         <li>Unlimited Pages</li>

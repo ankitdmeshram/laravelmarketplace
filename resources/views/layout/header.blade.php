@@ -103,7 +103,7 @@
       .pricing 
       {
         padding: 75px 10px;
-        background: rgba(255, 68, 0, 0.051)
+        background: rgba(255, 68, 0, 0.05 1)
       }
       .pricing .box {
         padding: 40px 10px;
