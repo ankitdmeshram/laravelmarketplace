@@ -134,7 +134,31 @@
       }
       .contact form input {
         background: transparent;
-        
+      }
+
+      footer {
+        background: orangered;
+        padding: 50px 10px;
+        color: white; 
+      }
+      footer p 
+      {
+        color: white;
+      }
+      footer ul {
+        list-style: none;
+      }
+      footer ul li {
+        padding: 5px;
+
+      }
+      footer ul li a {
+        text-decoration: none;
+        color: white; 
+      }
+      footer ul li a:hover {
+        text-decoration: none;
+        color: white; 
       }
 
     </style>
