@@ -123,6 +123,20 @@
         padding: 5px;
       }
 
+      .contact {
+        padding: 75px 10px;
+        background: rgba(255, 68, 0, 0.064);
+      }
+      .contact .form 
+      {
+        max-width: 600px;
+        margin: auto;
+      }
+      .contact form input {
+        background: transparent;
+        
+      }
+
     </style>
   </head>
   <body>
