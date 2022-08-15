@@ -109,7 +109,12 @@
         padding: 40px 10px;
         box-shadow: 1px 1px 50px 1px rgba(0, 0, 0, 0.087);
         border-radius: 15px;
-     
+      }
+      .pricing h3 {
+        color: orangered;
+      }
+      .pricing h3 span {
+        color: black;
       }
       .pricing ul {
         list-style: none;

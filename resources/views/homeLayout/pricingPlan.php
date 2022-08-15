@@ -12,7 +12,7 @@
                 <div class="text-center">
                     <h5>Starter</h5>
                     <h3>₹3000<span style="font-size: 16px">/year</span></h3>
-                    <p><strike>₹5000/year</strike></p>
+                    <p><small><strike>₹5000/year</strike></small></p>
                     <ul>
                         <li>Unlimited Pages</li>
                         <li>Unlimited Pages</li>
@@ -30,7 +30,7 @@
                 <div class="text-center">
                     <h5>Starter</h5>
                     <h3>₹3000<span style="font-size: 16px">/year</span></h3>
-                    <p><strike>₹5000/year</strike></p>
+                    <p><small><strike>₹5000/year</strike></small></p>
                     <ul>
                         <li>Unlimited Pages</li>
                         <li>Unlimited Pages</li>
@@ -48,7 +48,7 @@
                 <div class="text-center">
                     <h5>Starter</h5>
                     <h3>₹3000<span style="font-size: 16px">/year</span></h3>
-                    <p><strike>₹5000/year</strike></p>
+                    <p><small><strike>₹5000/year</strike></small></p>
                     <ul>
                         <li>Unlimited Pages</li>
                         <li>Unlimited Pages</li>
