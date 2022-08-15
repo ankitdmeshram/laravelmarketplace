@@ -4,7 +4,7 @@
         <div class="col-12 pb-4">
             <div class="text-center">
                 <h5>Software Features</h5>
-                <h2>Stunning with lots of features</h2>
+                <h3>Stunning with lots of features</h3>
                 <p class="w-50 mx-auto">Samu lets you manage software development and track bugs. Samu's streamlined design is built for speed and efficiency helping high performing team.</p>
             </div>
         </div>
