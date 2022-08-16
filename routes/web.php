@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\leadController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -20,3 +21,8 @@ Route::get('/', function () {
 Route::get('/pest-control-service', function () {
     return view('landingPages/pestcontrolservice');
 });
+
+Route::get('leads', [leadController::class, 'allLeads']);
+
+Route::post('add_lead', [leadController::class, 'addLead']);
+

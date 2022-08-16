@@ -8,26 +8,28 @@
             </div>
             <div class="col-md-5">
                 <div class="form shadow rounded p-4">
-                    <form action="">
+                    <form action="add_lead" method="post">
+                        @csrf
                         <div class="form-group">
                             <label>Name</label>
                             <input type="text" name="name" class="form-control">
                         </div>
                         <div class="form-group">
                             <label>Email</label>
-                            <input type="text" name="name" class="form-control">
+                            <input type="text" name="email" class="form-control">
                         </div>
                         <div class="form-group">
                             <label>Phone</label>
-                            <input type="text" name="name" class="form-control">
+                            <input type="text" name="phone" class="form-control">
                         </div>
                         <div class="form-group">
                             <label>City</label>
-                            <input type="text" name="name" class="form-control">
+                            <input type="text" name="city" class="form-control">
+                            <input type="hidden" name="company" class="form-control" value="1">
                         </div>
                         
                         <div class="form-group">
-                            <button class="btn btn-orange">Submit</button>
+                            <button class="btn btn-orange" type="submit" name="submit">Submit</button>
                         </div>
                     </form>
                 </div>
