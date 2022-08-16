@@ -206,6 +206,12 @@
     .lp-hero button {
       font-weight: 700
     }
+    .lp-about {
+      padding: 100px 10px;
+    }
+    .lp-about h5 {
+      font-size: 1.7em;
+    }
   </style>
 </head>
 
