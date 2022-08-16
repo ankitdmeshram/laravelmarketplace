@@ -239,6 +239,12 @@
     .lp-cta h3 {
       color: white;
     }
+    .lp-testimonial {
+      padding: 100px 10px;
+    }
+    .lp-testimonial p {
+      padding: 10px 30px;
+    }
   </style>
 </head>
 
