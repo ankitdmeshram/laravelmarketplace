@@ -54,6 +54,10 @@
       font-size: 18px;
       padding: 10px 20px;
     }
+    .btn-sml {
+      padding: 5px 10px;
+      font-weight: 600
+    }
     .clr-orange {
       color: orangered;
     }
@@ -211,6 +215,13 @@
     }
     .lp-about h5 {
       font-size: 1.7em;
+    }
+
+    .lp-services {
+      padding: 100px 10px;
+    }
+    .lp-services .box {
+      padding: 20px;
     }
   </style>
 </head>
