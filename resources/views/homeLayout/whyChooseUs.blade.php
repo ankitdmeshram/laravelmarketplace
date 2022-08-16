@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-lg-5">
             <h5>Why Choose Us</h5>
-            <h3>Optimized for speed</h3>
+            <h3 class="clr-orange">Optimized for speed</h3>
             <p>We create custom design software for businesses of all sizes. Our software will help you take your business.</p>
 
             <div class="row pt-3">

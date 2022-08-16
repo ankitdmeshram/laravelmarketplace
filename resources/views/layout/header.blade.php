@@ -33,7 +33,10 @@
       font-size: 2.5em;
       font-weight: 700;
     }
-
+    h4 {
+      font-size: 1.9em;
+      font-weight: 600
+    }
     h5 {
       font-size: 1.3em;
       font-weight: 600;
@@ -51,6 +54,10 @@
       font-size: 18px;
       padding: 10px 20px;
     }
+    .clr-orange {
+      color: orangered;
+    }
+
 
     @media(max-width: 576px) {
       h1 {
@@ -123,9 +130,6 @@
       font-weight: 500;
     }
 
-    .wcu h3 {
-      color: orangered;
-    }
 
     .pricing {
       padding: 75px 10px;
@@ -136,10 +140,6 @@
       padding: 40px 10px;
       box-shadow: 1px 1px 50px 1px rgba(0, 0, 0, 0.087);
       border-radius: 15px;
-    }
-
-    .pricing h3 {
-      color: orangered;
     }
 
     .pricing h3 span {
@@ -195,6 +195,16 @@
     footer ul li a:hover {
       text-decoration: none;
       color: white;
+    }
+
+
+
+
+    .lp-hero h1, .lp-hero p {
+      width: 80%
+    } 
+    .lp-hero button {
+      font-weight: 700
     }
   </style>
 </head>

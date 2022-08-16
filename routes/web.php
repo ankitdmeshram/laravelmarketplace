@@ -16,3 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home');
 });
+
+Route::get('/pest-control-service', function () {
+    return view('landingPages/pestcontrolservice');
+});

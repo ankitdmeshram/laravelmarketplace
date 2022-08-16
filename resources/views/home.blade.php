@@ -7,7 +7,4 @@
 @include('homeLayout/pricingPlan')
 @include('homeLayout/contact    ')
 
-
-
-
 @include('layout/footer')

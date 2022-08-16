@@ -11,7 +11,7 @@
             <div class="box">
                 <div class="text-center">
                     <h5>Starter</h5>
-                    <h3>₹3000<span style="font-size: 16px">/year</span></h3>
+                    <h3 class="clr-orange">₹3000<span style="font-size: 16px">/year</span></h3>
                     <p><small><strike>₹5000/year</strike></small></p>
                     <ul>
                         <li>Unlimited Pages</li>
@@ -29,7 +29,7 @@
             <div class="box">
                 <div class="text-center">
                     <h5>Starter</h5>
-                    <h3>₹3000<span style="font-size: 16px">/year</span></h3>
+                    <h3 class="clr-orange">₹3000<span style="font-size: 16px">/year</span></h3>
                     <p><small><strike>₹5000/year</strike></small></p>
                     <ul>
                         <li>Unlimited Pages</li>
@@ -47,7 +47,7 @@
             <div class="box">
                 <div class="text-center">
                     <h5>Starter</h5>
-                    <h3>₹3000<span style="font-size: 16px">/year</span></h3>
+                    <h3 class="clr-orange">₹3000<span style="font-size: 16px">/year</span></h3>
                     <p><small><strike>₹5000/year</strike></small></p>
                     <ul>
                         <li>Unlimited Pages</li>
