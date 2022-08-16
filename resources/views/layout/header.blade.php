@@ -53,6 +53,15 @@
       color: white;
       font-size: 18px;
       padding: 10px 20px;
+      font-weight: 600;
+    }
+    .btn-l-orange {
+      background: orange;
+      color: white;
+      font-size: 18px;
+      padding: 10px 20px;
+      font-weight: 600;
+
     }
     .btn-sml {
       padding: 5px 10px;
@@ -222,6 +231,13 @@
     }
     .lp-services .box {
       padding: 20px;
+    }
+    .lp-cta {
+      padding: 75px 10px;
+      background: orangered;
+    }
+    .lp-cta h3 {
+      color: white;
     }
   </style>
 </head>
