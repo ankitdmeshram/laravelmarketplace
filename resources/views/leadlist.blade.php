@@ -14,6 +14,7 @@
             <th>Company</th>
             <th>Updated At</th>
             <th>Created At</th>
+            <th>Delete</th>
         </tr>
 
     @foreach ($leads as $lead)
@@ -26,6 +27,7 @@
             <td>{{$lead['company']}}</td>
             <td>{{$lead['updated_at']}}</td>
             <td>{{$lead['created_at']}}</td>
+            <td><a href={{'delete/'.$lead['id']}}>Delete</a></td>
         </tr>
     @endforeach
     </table>

@@ -25,4 +25,10 @@ class leadController extends Controller
 
         return back();
     }
+
+    function delete($id) {
+        $lead = Lead::find($id);
+        $lead -> delete();
+        return back();
+    }
 }

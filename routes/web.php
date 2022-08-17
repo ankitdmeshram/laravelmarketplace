@@ -1,6 +1,8 @@
 <?php
 
 use App\Http\Controllers\leadController;
+use App\Http\Controllers\storeController;
+
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -26,3 +28,6 @@ Route::get('leads', [leadController::class, 'allLeads']);
 
 Route::post('add_lead', [leadController::class, 'addLead']);
 
+Route::get('delete/{id}', [leadController::class, 'delete']);
+
+Route::get('{storename}', [storeController::class, 'fetchAllDetails']);
